@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: @mominul
+title: Mominul's Blog
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Random thoughts on random things!
 
 # --- Navigation bar options --- #
 
@@ -69,7 +69,7 @@ url-pretty: "Mominul's blog"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-82055803-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
